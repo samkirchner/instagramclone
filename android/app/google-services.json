@@ -34,7 +34,7 @@
               "client_id": "316684711116-hssec3bj4ua67q05qcct58pirgf94hdh.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.frankenlock.instagramCloneFlutter"
+                "bundle_id": "com.example.frankenlock.instagramCloneFlutter"
               }
             }
           ]
